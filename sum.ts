@@ -12,3 +12,6 @@ export const sumAsync = async (
     }, 1000);
   });
 };
+export const consoleLog = (a: number, b: number, c: number): void => {
+  console.log(a + b + c);
+};
