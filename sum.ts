@@ -16,7 +16,13 @@ export const consoleLog = (
   a: number,
   b: number,
   c: number,
-  d: number
+  d: number,
+  e: number,
+  f: number,
+  g: number,
+  h: number,
+  i: number,
+  j: number
 ): void => {
-  console.log(a + b + c + d);
+  console.log(a + b + c + d + e + f + g + h + i + j);
 };
