@@ -10,7 +10,7 @@ export const sumAsync = async (
     }, 1000);
   });
 };
-export const c2221111onsole222222222LogRN = (
+export const c2221111onsole222222222LogRNGOOD = (
   a: number,
   b: number,
   c: number,
