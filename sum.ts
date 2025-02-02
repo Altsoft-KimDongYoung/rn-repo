@@ -10,7 +10,7 @@ export const sumAsync = async (
     }, 1000);
   });
 };
-export const consoleLog = (
+export const console222Log = (
   a: number,
   b: number,
   c: number,
